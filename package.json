@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "figlet": "^1.5.2"
   },
   "name": "nodestudy",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
